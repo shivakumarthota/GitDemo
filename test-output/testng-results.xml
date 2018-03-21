@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="100" started-at="2018-03-13T03:09:27Z" finished-at="2018-03-13T03:09:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38" started-at="2018-03-13T03:09:27Z" finished-at="2018-03-13T03:09:27Z">
+      <class name="ngtest.day1">
+        <test-method status="PASS" signature="second()[pri:0, instance:ngtest.day1@3a82f6ef]" name="second" duration-ms="9" started-at="2018-03-13T03:09:27Z" finished-at="2018-03-13T03:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+      </class> <!-- ngtest.day1 -->
+      <class name="ngtest.day2">
+        <test-method status="PASS" signature="de()[pri:0, instance:ngtest.day2@2ef5e5e3]" name="de" duration-ms="4" started-at="2018-03-13T03:09:27Z" finished-at="2018-03-13T03:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- de -->
+      </class> <!-- ngtest.day2 -->
+    </test> <!-- Test -->
+    <test name="car loan" duration-ms="10" started-at="2018-03-13T03:09:27Z" finished-at="2018-03-13T03:09:27Z">
+      <class name="ngtest.day3">
+        <test-method status="PASS" signature="LoginAPICarlon()[pri:0, instance:ngtest.day3@18be83e4]" name="LoginAPICarlon" duration-ms="1" started-at="2018-03-13T03:09:27Z" finished-at="2018-03-13T03:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPICarlon -->
+        <test-method status="PASS" signature="WebLoginCarlon()[pri:0, instance:ngtest.day3@18be83e4]" name="WebLoginCarlon" duration-ms="1" started-at="2018-03-13T03:09:27Z" finished-at="2018-03-13T03:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebLoginCarlon -->
+      </class> <!-- ngtest.day3 -->
+    </test> <!-- car loan -->
+  </suite> <!-- Suite -->
+</testng-results>
